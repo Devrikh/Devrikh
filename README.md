@@ -16,13 +16,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Devrikh&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Devrikh/Devrikh/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Devrikh/Devrikh/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Devrikh/Devrikh/output/github-snake.svg" />
-</picture>
 
 ###
 
