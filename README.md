@@ -1,4 +1,6 @@
-# 💫 Hello Fellas, I am Devrikh
+<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+
+# 👋 Hello Fellas, I am Devrikh
 <br>
 🔭 Currently working on a decentralized 5G CDN project using Web3, IPFS, and React, focused on streaming video content through edge nodes and blockchain payments.<br>👯 Looking to collaborate on open source projects in Web Development, AI/ML, and Web3 that push boundaries and solve real-world problems.<br>🤝 Looking for help with Implementing scalable architectures for dApps, integrating real-time systems with blockchain, and optimizing ML models for production use.<br>🌱 Currently learning advanced AI/ML techniques, smart contract development using Solidity + Hardhat, and real-time communication using WebSockets and ESP8266 microcontrollers.<br>⚡ Fun fact : I once short-circuited the entire block of my hostel while working on an IoT project. Lesson learned... always double-check your wiring 😅.<br><br>
 
