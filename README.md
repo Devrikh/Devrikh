@@ -14,7 +14,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Devrikh&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 
----
-[![](https://visitcount.itsvg.in/api?id=Devrikh&icon=9&color=1)](https://visitcount.itsvg.in)
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Devrikh/Devrikh/output/snake.svg" alt="Snake animation" />
+
+###
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
