@@ -2,7 +2,7 @@
 
 # 👋 Hello Fellas, I am Devrikh
 <br>
-I build Web3 applications and decentralized solutions using blockchain, IPFS, and modern web technologies (MERN). I’m currently learning smart contract development and exploring real-time integrations for dApps. I’m eager to collaborate on projects that push the boundaries of Web3 and deliver scalable, practical solutions.<br><br>
+I build Web3 applications and decentralized solutions using blockchain, and modern web technologies (MERN). I’m currently learning smart contract development and exploring real-time integrations for dApps. I’m eager to collaborate on projects that push the boundaries of Web3 and deliver scalable, practical solutions.<br><br>
 
 
 ## 🌐 Socials:
