@@ -2,7 +2,7 @@
 
 # 👋 Hello Fellas, I am Devrikh
 <br>
-I'm a full-stack web developer building scalable applications using MERN, Next.js, and modern tooling. I focus on clean backend architecture, performance, and writing maintainable code. Currently learning system design and building production ready web apps.<br><br>
+I'm a full stack web developer building scalable applications using MERN, Next.js, and modern tooling. I focus on clean backend architecture, performance, and writing maintainable code. Currently learning system design and building production ready web apps.<br><br>
 
 
 ## 🌐 Socials:
