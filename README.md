@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi there, I'm Devrikh Jatav 👋</h1>
-<h3 align="center">Backend Engineer · Node.js · TypeScript · Distributed Systems</h3>
+<h3 align="center">Software Engineer · Node.js · TypeScript · Distributed Systems</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/devrikh-jatav" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -14,14 +14,14 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-Backend engineer focused on building scalable systems and production-grade infrastructure — API design, async job processing, multi-tenancy, distributed systems, and DevOps pipelines.
+Software engineer focused on building scalable systems and production-grade infrastructure — API design, async job processing, multi-tenancy, distributed systems, and DevOps pipelines.
 
-- 🎓 **Education:** B.Tech in Computer Science & Engineering, IIIT Vadodara (2026)
-- 🔬 **Research:** Co-authored a cryptosystem published at [ICISS 2025 (Springer)](https://www.springerprofessional.de/en/dynamic-key-constant-aggregate-encryption-dkcae-for-secure-data-/51826050)
-- 🏗️ **Interests:** Distributed Systems, Backend Infrastructure, System Design
-- 🤝 **Leadership:** Co-founded Droid Robotics Club — 50+ members, 500+ event attendees
+- **Research:** Co-authored a cryptosystem published at [ICISS 2025 (Springer)](https://www.springerprofessional.de/en/dynamic-key-constant-aggregate-encryption-dkcae-for-secure-data-/51826050)
+- **Education:** B.Tech in Computer Science & Engineering, IIIT Vadodara (2026)
+- **Interests:** Distributed Systems, Backend Infrastructure, System Design
+- **Leadership:** Co-founded Droid Robotics Club — 50+ members, 500+ event attendees
 
 ---
 
