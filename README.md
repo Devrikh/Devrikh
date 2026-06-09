@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Devrikh/Devrikh/blob/main/Banner.png?raw=true" width="100%"/>
+  <img src="https://github.com/Devrikh/Devrikh/blob/main/Linkedinbanner.png?raw=true" width="100%"/>
 </div>
 
 <h1 align="center">Hi there, I'm Devrikh Jatav 👋</h1>
